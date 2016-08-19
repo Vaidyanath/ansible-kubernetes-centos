@@ -1,5 +1,5 @@
-**note: last commit Jun-29-2015, might be outdated.
-
+##**note: last commit Jun-29-2015, might be outdated.
+---------------------------------------------------
 # ansible-kubernetes-centos
 Deployment automation of Kubernetes on CentOS 7
 
